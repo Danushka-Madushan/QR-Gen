@@ -6,7 +6,7 @@
 > • Instant QR-Code Generator That Can Convert any Piece of Text in to Qr-Code
 
 # How to Works??
-> ## Firt install all requirements ( Not Requierd in Executable Release )
+> ## First install all requirements ( Not Requierd in Executable Release )
 
 > • Python 3.8 or Above is Better 
 
