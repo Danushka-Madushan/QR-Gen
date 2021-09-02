@@ -13,7 +13,7 @@
 # Dependencies
 > pip install -r requirements.txt
 
-# Functions
+# Features
 > You Can Simply Convert Any Text in to QR-Code by Just Entering the Text and Clicking Create Button
 
 > This Programme is 99% Offline it's Better that Connect to internet Before Use (it Uses Google Font Library) 
