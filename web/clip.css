@@ -1,0 +1,30 @@
+.notify {
+  font-family: PT Sans, sans-serif;
+  position: absolute;
+  border-radius: 10px;
+  right: 20px;
+  bottom: 10px;
+  text-align: right;
+  width: 20%;
+  height: 0;
+  box-sizing: border-box;
+  color: white;
+  text-align: center;
+  background-color: #28c98b;
+  overflow: hidden;
+  box-sizing: border-box;
+  transition: height 0.8s;
+}
+
+#notifyType:before {
+  display: block;
+  margin-top: 15px;
+}
+
+.active {
+  height: 55px;
+}
+
+.success:before {
+  content: "✓ Image Saved Locally";
+}
